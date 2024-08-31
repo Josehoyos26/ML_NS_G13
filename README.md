@@ -1,4 +1,4 @@
-![Portada](./Semana 2/figs/ans_banner_1920x200.png)
+![Portada](./Semana%202/figs/ans_banner_1920x200.png)
 
 # Maestria MIAD - Aprendizaje no supervisado
 
