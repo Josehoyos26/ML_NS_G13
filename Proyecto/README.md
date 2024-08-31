@@ -2,8 +2,7 @@
 
 # Recomendación de contenido 
 
-Este proyecto se basa en crear un algoritmo que recomienda contenido a partir de diferentes variables   
-[IMDB](https://www.imdb.com)
+Este proyecto se basa en crear un algoritmo que recomienda contenido a partir de diferentes variables
 
 ## Datos
 Los datos se obtienen de la base de título de la pagína IMDB
@@ -24,3 +23,13 @@ Los datos utilizados en este proyecto están estructurados de la siguiente maner
 - `director`: Director de la película.
 - `year_range`: Rango de años en el que fue lanzada la película.
 - `url`: URL de la página de la película en su respectiva plataforma.
+
+## Investigación
+
+
+## Referencias
+
+- [IMDB](https://www.imdb.com)
+- [TMDB](https://www.themoviedb.org)
+- [Netflix tech blog](https://netflixtechblog.com/)
+- 
