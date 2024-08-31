@@ -1,0 +1,13 @@
+# .gitignore
+
+# IDES ignores
+.idea/
+*.iml
+.vscode/
+.ipynb_checkpoints/
+.spyderproject/
+.spyproject/
+*.sublime-workspace
+*.sublime-project
+.atom/
+.compile-cache/
