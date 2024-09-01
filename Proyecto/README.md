@@ -49,5 +49,5 @@ Para abordar la pregunta de interés, se planea utilizar el algoritmo de K-means
 - [IMDB](https://www.imdb.com)
 - [TMDB](https://www.themoviedb.org)
 - [Netflix tech blog](https://netflixtechblog.com/)
-- https://repositorio.usm.cl/server/api/core/bitstreams/d67c307d-1a49-4c90-b54d-335457c3938d/content
-- https://www.xataka.com/basics/comparativa-disney-netflix-hbo-movistar-prime-video-apple-filmin-catalogo-funciones-precios
+- [Estudio Percepcion Consumidor Servicio Streaming](https://repositorio.usm.cl/server/api/core/bitstreams/d67c307d-1a49-4c90-b54d-335457c3938d/content)
+- [Comparativa Streaming]https://www.xataka.com/basics/comparativa-disney-netflix-hbo-movistar-prime-video-apple-filmin-catalogo-funciones-precios
