@@ -44,8 +44,10 @@ Los datos se obtienen de la base de título de la pagína IMDB y están estructu
 ## Propuesta metodológica:
 Para abordar la pregunta de interés, se planea utilizar el algoritmo de K-means clustering debido a su simplicidad y eficacia en la identificación de grupos homogéneos dentro de los datos. Este algoritmo es adecuado para agrupar los servicios de streaming en función de sus características y evaluar su relación calidad-precio. Otros algoritmos candidatos incluyen DBSCAN, que también podrían ser útiles para identificar patrones en los datos, sin embargo, a medida que avance el curso podríamos seguir probando modelos más sofisticados.
 
-## Referencias
+## Link Github:
+https://github.com/Josehoyos26/ML_NS_G13/blob/master/Proyecto/Proyecto%20Streaming.md
 
+## Referencias:
 - [IMDB](https://www.imdb.com)
 - [TMDB](https://www.themoviedb.org)
 - [Netflix tech blog](https://netflixtechblog.com/)
