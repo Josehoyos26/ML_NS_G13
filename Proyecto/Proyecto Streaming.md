@@ -53,3 +53,4 @@ https://github.com/Josehoyos26/ML_NS_G13/blob/master/Proyecto/Proyecto%20Streami
 - [Netflix tech blog](https://netflixtechblog.com/)
 - [Estudio Percepcion Consumidor Servicio Streaming](https://repositorio.usm.cl/server/api/core/bitstreams/d67c307d-1a49-4c90-b54d-335457c3938d/content)
 - [Comparativa Streaming](https://www.xataka.com/basics/comparativa-disney-netflix-hbo-movistar-prime-video-apple-filmin-catalogo-funciones-precios)
+- [Recomendaciones de Netflix](https://netflixtechblog.com/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429)
